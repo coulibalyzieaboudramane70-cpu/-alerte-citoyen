@@ -1,0 +1,1 @@
+import Link from "next/link"; export default function Page(){return <main className="section"><div className="container"><div className="card"><h1>Carte des alertes</h1><p>Les positions doivent rester approximatives par défaut afin d'éviter l'exposition d'adresses sensibles.</p><Link className="btn primary" href="/">Retour à l'accueil</Link></div></div></main>}
