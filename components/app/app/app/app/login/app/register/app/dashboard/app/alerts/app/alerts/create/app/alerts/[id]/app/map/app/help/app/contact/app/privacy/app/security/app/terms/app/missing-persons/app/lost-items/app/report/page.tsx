@@ -1,0 +1,1 @@
+import Link from "next/link"; export default function Page(){return <main className="section"><div className="container"><div className="card"><h1>Signaler un abus</h1><p>La version de production doit relier ce formulaire au système de modération et de gestion des incidents.</p><Link className="btn primary" href="/">Retour à l'accueil</Link></div></div></main>}
