@@ -1,0 +1,1 @@
+import Link from "next/link"; export default function Page(){return <main className="section"><div className="container"><div className="card"><h1>Contact</h1><p>Avant le lancement, renseignez ici l'identité juridique et les coordonnées officielles de l'éditeur.</p><Link className="btn primary" href="/">Retour à l'accueil</Link></div></div></main>}
